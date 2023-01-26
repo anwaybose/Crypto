@@ -12,7 +12,7 @@ setup(**d)
 
 from distutils.core import setup
 
-setup(name='Crypto_utils',
+setup(
       version='1.0',
       description='Pycryptodome',
       author='Anway Bose',
