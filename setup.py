@@ -17,7 +17,7 @@ setup(
       description='Pycryptodome',
       author='Anway Bose',
       author_email='anway.bose@gmail.com',
-      url='https://www.python.org/sigs/distutils-sig/',
+      url='https://github.com/anwaybose/Crypto',
       packages=['python_crypto'],
       package_dir={'': 'src'}
      )
